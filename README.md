@@ -7,6 +7,7 @@
 - Nguyễn Anh Khoa - leader
 - Nguyễn Đức Anh
 - Vũ Anh Quân
+- Đỗ Kiên Quyết
 
 ## Project Features
  - React Navigation 
